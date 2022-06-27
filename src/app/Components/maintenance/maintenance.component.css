@@ -1,0 +1,25 @@
+h2
+{
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.form-check-input
+{
+    border: 2px solid rgb(117, 117, 117);
+}
+.form-check-label
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+.checkbox
+{
+    margin-top: -15px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}

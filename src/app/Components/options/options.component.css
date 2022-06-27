@@ -1,0 +1,27 @@
+.main-heading h2
+{
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 24px;
+}
+ul
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style: none;
+}
+li
+{
+    padding: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 14px;
+}
+#flexCheckDefault
+{
+    margin-right: 10px;
+    border: 2px solid rgb(117, 117, 117);
+    margin-top: 1px;
+}

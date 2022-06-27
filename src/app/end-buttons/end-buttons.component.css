@@ -1,0 +1,43 @@
+.buttons
+{
+    margin-bottom: 150px;
+}
+ul
+{
+    display: flex;
+    flex-direction: row;
+}
+button
+{
+    margin: 10px;
+}
+.preview
+{
+    background: #EAECEE;
+    box-shadow: 0px 4px 0px rgba(25, 51, 83, 0.36);
+    border-radius: 3px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(5, 5, 5, 0.5);
+    border: none;
+    width: 244px;
+    height: 51px;
+}
+.place
+{
+    background: #137BCB;
+    box-shadow: 0px 4px 0px rgba(25, 51, 83, 0.36);
+    border-radius: 3px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    border: none;
+    width: 244px;
+    height: 51px;
+}

@@ -1,0 +1,58 @@
+.container
+{
+    position:absolute;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 225px;
+    width: 849px;
+    
+}
+.category h2
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 30px;
+}
+.sub-category
+{
+    display: flex;
+}
+.free-category
+{
+    margin-left: 200px;
+}
+.circle
+{
+    font-size: 20px;
+    font-weight: 800;
+}
+.info
+{
+    font-size: 12px;
+    margin-left: -12px;
+    margin-right: 20px;
+}
+.free
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 4px;
+}
+.car
+{
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 500;
+}
+.line
+{
+    width: 800px;
+    border: 0.1px solid rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,85 @@
+.headings
+{
+    margin-bottom: 120px;
+}
+.heading h2
+{
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 24px;
+}
+.text p
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 14px;
+    color: #a7a7a7;
+}
+.icon
+{
+    margin-bottom: -160px;
+}
+.icon ul
+{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+ul .circle
+{
+    font-size: 35px;
+    color: #E5E5E5;
+    margin-left: 80px;
+}
+ul .plus
+{
+    font-size: 23px;
+    color: #E5E5E5;
+    margin-left: -27px;
+}
+.frame
+{
+    box-sizing: border-box;
+}
+.main-box
+{
+    /* box-sizing: border-box; */
+    width: 265px;
+    height: 265px;
+    border: 2px solid #E5E5E5;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.box
+{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 128px;
+    height: 128px;
+    border: 2px solid #E5E5E5;
+}
+.one
+{
+    margin-top: -265px;
+    margin-left: 275px;
+}
+.two
+{
+    margin-top: 9px;
+    margin-left: 275px;
+}
+.three
+{
+    margin-top: -265px;
+    margin-left: 415px;
+}
+.four
+{
+    margin-top: 9px;
+    margin-left: 415px;
+}
